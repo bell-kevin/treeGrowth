@@ -39,8 +39,8 @@ public class Tree {
 
         if (length > 2) {
             g.drawLine(x0, y0, x1, y1);
-            drawBranches(g, x1, y1, length * 0.75, angle + 30);
-            drawBranches(g, x1, y1, length * 0.67, angle - 50);
+            drawBranches(g, x1, y1, length * 0.75, angle + 30); // left tree branch
+            drawBranches(g, x1, y1, length * 0.67, angle - 50); // right tree branch
         }
     } // end drawBranches
 
