@@ -1,7 +1,7 @@
 # treeGrowth
 tree growth
-![towersOfHanoiRecursive](https://github.com/bell-kevin/towersOfHanoi/blob/main/towersOfHanoi.PNG)
 
+![treeGrowthRecursive](https://github.com/bell-kevin/treeGrowth/blob/main/treeGrowthSimulationFinalResult.PNG)
 
 == We're Using GitHub Under Protest ==
 
